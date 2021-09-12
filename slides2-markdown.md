@@ -1,9 +1,4 @@
-layout: true
-class: center, middle
-
----
-
-# Title v4
+# Title v5
 
 ---
 
