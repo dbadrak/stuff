@@ -1,11 +1,6 @@
-layout: true
-class: center
-
----
-
 name: slides2
-class: middle
-# Title v13
+class: center, middle
+# Title v14
 
 This is slide {{ name }}
 
