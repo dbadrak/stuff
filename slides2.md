@@ -1,7 +1,8 @@
 layout: true
 class: center, middle
+---
 
-# Title v2
+# Title v3
 
 ---
 
