@@ -5,9 +5,10 @@ layout: true
 
 name: slides2
 class: center, middle
-# Title v16
+version: 1.0.0
+# Title v16.1
 
-This is slide {{ name }}
+This is slide {{ name }}, version {{ version }}
 
 ---
 
@@ -50,3 +51,5 @@ is it possible?
 - bullet5
 
 ---
+
+# Fin
