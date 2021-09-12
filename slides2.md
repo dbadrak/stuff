@@ -1,3 +1,4 @@
+class: center, middle
 # Title
 
 ---
