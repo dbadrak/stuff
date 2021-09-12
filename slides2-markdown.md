@@ -1,12 +1,12 @@
 layout: true
-.footnote[.red.bold[*] Important footnote on every page]
+.footer[.red.bold[*] Important footnote on every page]
 
 ---
 
 name: slides2
 class: center, middle
 version: 1.0.0
-# Title v16.1
+# Title v16.2
 
 This is slide {{ name }}, version {{ version }}
 
