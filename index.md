@@ -38,4 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # New Files
 
-[stuff](stuff.md)
+[sample](sample.md)
+
+Public [link](https://dbadrak.github.io/stuff/)
