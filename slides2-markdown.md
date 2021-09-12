@@ -1,9 +1,5 @@
----
-layout: false
 class: center, middle
----
-
-# Title v6
+# Title v7
 
 ---
 
