@@ -1,3 +1,6 @@
+layout: true
+class: center
+---
 # Title
 
 ---
