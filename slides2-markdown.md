@@ -1,6 +1,10 @@
+layout: true
 class: center, middle
 name: slides2
-# Title v9
+
+---
+
+# Title v11
 
 This is slide {{ name }}
 
@@ -15,3 +19,13 @@ This is slide {{ name }}
 ---
 
 # Introduction
+
+---
+
+# New slide with bullets that add
+
+* bullet 1
+--
+* bullet 2 (added)
+--
+* bullet 3 (added)
