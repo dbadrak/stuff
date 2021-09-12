@@ -1,6 +1,11 @@
+layout: true
+.footnote[.red.bold[*] Important footnote on every page]
+
+---
+
 name: slides2
 class: center, middle
-# Title v15
+# Title v16
 
 This is slide {{ name }}
 
