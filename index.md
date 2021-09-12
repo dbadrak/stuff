@@ -38,6 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # New Files
 
-[sample](sample.md)
-
-Public [link](https://dbadrak.github.io/stuff/)
+* [sample](sample.md)
+* Public [link](https://dbadrak.github.io/stuff/)
+* [slides1](slides1.html)
+* [slides2](slides2.html) || [slides2 markdown](slides2.md)
