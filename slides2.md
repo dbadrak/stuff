@@ -1,5 +1,5 @@
 layout: true
-class: center
+class: center, middle
 ---
 # Title
 
