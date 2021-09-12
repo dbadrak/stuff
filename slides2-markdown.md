@@ -1,5 +1,8 @@
 class: center, middle
+name: slides2
 # Title v7
+
+This is slide {{name}}
 
 ---
 
