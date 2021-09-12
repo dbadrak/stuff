@@ -1,11 +1,6 @@
----
-layout: presentation
-title: Default Presentation
-permalink: /slides3/
-class: center, middle
----
 
-# Title v1
+class: center, middle
+# Title v2
 
 ---
 
